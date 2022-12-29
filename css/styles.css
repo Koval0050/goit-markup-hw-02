@@ -62,10 +62,12 @@ body {
   color: var(--color-hover-effect);
   /* text-decoration: underline; */
 }
+
 .contact-item-link {
   font-style: normal;
   font-size: 16px;
   line-height: calc(24 / 16);
+  color: #434455;
 }
 .contact-item-link:hover,
 .contact-item-link:focus {
